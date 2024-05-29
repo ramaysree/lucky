@@ -1,0 +1,40 @@
+Bin --- Binary--It contains commands and file.
+Sbin--Static binary--- it contains same like bin directory but it acces only root access.
+media --- It comntains file and Folders
+dev
+etc ---It  contains configuration files
+mnt --- To copy or share the data.
+opt --optional --- we can download packages and remove.
+home --Default hompath
+lib --Liberary--- Contains s/y liberies
+proc --process ---like Ram, cpu etc.. 
+tmp -- tempary--- It st
+
+scp -r new jayesh@10.143.90.2:/home/jayesh/new1/ ---copy file to host system 
+
+
+--------------(20/05/2024)------------
+Grep, SED, Sort,chmod(Chnaging mode/permission) 
+What is Umask in linux and Inode iin linux.. and permission in linux(chmod command)
+
+Grep: Global Regular Expression print.
+     Used to SEARCH for a word in a text file.
+	 Ex: grep -i raghu text.file
+	 
+SED: Stream editor
+    Used for replace the word in afile.
+    EX: sed -i 's/raghu/santosh/g' textfile.txt
+	
+	
+SORT:  used to print the output of a file in a order.(Arranging alphabetically/Numerically)
+
+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
+
+KvHchwt2L6
+2555
+2554
+2553
+2549
+2548
+2547
+2546
